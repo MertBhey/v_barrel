@@ -1,0 +1,5 @@
+name: v_barrel
+version: '1.0'
+main: me.mertbhey.v_barrel.Main
+api-version: 1.17
+author: MertBhey
